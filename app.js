@@ -14,12 +14,7 @@ import {
 } from "https://www.gstatic.com/firebasejs/10.13.2/firebase-firestore.js";
 
 const firebaseConfig = {
-  apiKey: "0",
-  authDomain: "finanzas-web-f4e05.firebaseapp.com",
-  projectId: "finanzas-web-f4e05",
-  storageBucket: "finanzas-web-f4e05.firebasestorage.app",
-  messagingSenderId: "1047152523619",
-  appId: "1:1047152523619:web:7d8f7d1f7a5ccc6090bb56"
+
 };
 const fbApp = initializeApp(firebaseConfig);
 const auth  = getAuth(fbApp);
