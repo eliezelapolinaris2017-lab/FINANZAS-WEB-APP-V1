@@ -14,7 +14,7 @@ import {
 } from "https://www.gstatic.com/firebasejs/10.13.2/firebase-firestore.js";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyC66vv3-yaap1mV2n1GXRUopLqccobWqRE",
+  apiKey: "0",
   authDomain: "finanzas-web-f4e05.firebaseapp.com",
   projectId: "finanzas-web-f4e05",
   storageBucket: "finanzas-web-f4e05.firebasestorage.app",
